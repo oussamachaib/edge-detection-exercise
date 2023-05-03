@@ -5,10 +5,6 @@ clc
 
 
 %%
-
-
-
-
 %% Filtering an image
 
 % %%% Creating a synthetic OH-PLIF image
